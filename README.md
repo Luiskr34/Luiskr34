@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👨‍💻 Luis Oliveira | Engenharia de Software
 
-<!--
-**Luiskr34/Luiskr34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Sou estudante de Engenharia de Software na UnB, focado em desenvolvimento backend e na criação de soluções.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 💻 Tecnologias e Ferramentas que Utilizo:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### 🛠 Ferramentas:
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Projeto em Destaque:
+- **[Relatórios Inteligentes para o Banco Central](https://github.com/unb-mds/2025.1-RelatoriosInteligentesBCB)**: Aplicação web completa com Streamlit que coleta, analisa e prevê indicadores econômicos, gerando relatórios em PDF.
+
+---
+
+### 📫 Contato:
+
+- **LinkedIn:** **[Luís Oliveira](https://www.linkedin.com/in/luís-oliveira34)**
+- **E-mail:** **gustavol.o@outlook.com**
+
+
