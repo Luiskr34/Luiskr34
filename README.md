@@ -25,11 +25,6 @@
 
 ---
 
-### 🚀 Projeto em Destaque:
-- **[Relatórios Inteligentes para o Banco Central](https://github.com/unb-mds/2025.1-RelatoriosInteligentesBCB)**: Aplicação web completa com Streamlit que coleta, analisa e prevê indicadores econômicos, gerando relatórios em PDF.
-
----
-
 ### 📫 Contato:
 
 - **LinkedIn:** **[Luís Oliveira](https://www.linkedin.com/in/luís-oliveira34)**
